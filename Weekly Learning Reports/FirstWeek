@@ -1,0 +1,28 @@
+THE UNITY AND UNREAL RIVALRY
+Unreal and Unity are best game engines for VR development. I found out that both Unreal and Unity have their own advantages.
+As I am comfortable with using Unity 5 I decided to learn Unreal first to make an unbiased comparision. As I now know a bit about Unreal 
+4, I have felt that Unreal is great but not more programmer friendly. And as I searched on internet, I found out that it is a common view.
+Unreal is one step ahead in nearly every area of graphics but Unity has a much larger community. It is well evident from the fact that 
+Microsoft partnershiped with Unity and not Unreal and Unity happens to be the platform of choice for HoloLens development. Furthermore 
+for AR, Vuforia on Unity or even OpenCV and unity work pretty well, but they don't exist on Unreal. Unreal's tutorials available largely
+cater to only designers.
+Unreal Engine is better suited to three dimensional capabilities. For better virtual reality experience the engine of choice has got to
+ be Unreal Engine. However it doesn’t really matter if we have a good art team. Unity has the longest track record with mobile games and 
+ if we want to make VR project for mobiles, say using Samsung gear or Google Cardboard, Unity is well suited for it as it supports Mobile 
+ development better than Unreal.
+In my opinion, future of Unreal as well as Unity stays same like it's today. Unity will be used more for mobile VR and Unreal for more 
+photorealistic experience with Occulus or HTC vive.
+Also using Blueprint isn't really a good idea in Unreal as it decreases performance by 10 times on an average when compared to using C++. 
+Having blueprint in Unreal makes it better for non programmers actually. For coders, there aren't much resources for learning as well as 
+help on doubts. They hardly answer on the Unreal support. The Unreal community is too small when compared to Unity.
+
+Unreal 4 is good, however the development is slower than Unity. It is easier to pump out programs in Unity than in Unreal. Unreal has 
+better performance (though only if we use C++ and not Blueprint) and is more highly optimized for what it does (which is primarily 
+small-world applications). It can be pretty punishing if we mishandle it which is not the case with Unity 5.
+
+Unreal has always been considered as a game engine having better graphics and it does have. However Unity 5 has seen great improvement 
+in rendering too (most of the conversations which convey that Unity graphics are inferior to Unreal graphics actually date back before 3
+March 2015, before even Unity 5 was launched). With the release of Unity 5 came many new features that enabled developers to make
+beautiful, next-gen AAA scenes. Unreal 4 gives better graphics but it doesn't matter much if we focus well enough on arts and design too.
+
+I finally choose to work with UNITY 3D because it is more flexible. 
