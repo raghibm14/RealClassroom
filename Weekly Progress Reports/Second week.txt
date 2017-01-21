@@ -1,0 +1,2 @@
+Trying to implement Networking as of now.
+Moved from Unity Networking to Photon Networking now. Trying to implement networking using Photon.
