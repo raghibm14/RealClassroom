@@ -1,0 +1,3 @@
+Implemented Unity Networking and realised some shortcomings in Unity Networking.
+Unity Networking isn't very efficient and using networking over Internet is little complicated.
+In the process of learning of Photon Networking which works through cloud.
