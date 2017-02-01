@@ -1,0 +1,6 @@
+Developing the classroom.
+Using Pro Builder for developing the classroom structure, Mezanix textures for adding textures to the classroom walls,
+TL_Grass material to add grass texture to the terrain outside the classroom, Lamp models from internet for adding lamp
+3d model in the classroom, adding point lights to them. A ceiling light is to be imported and baked light as well as spotlight 
+has to be added to it with pixel count decreased to 2 otherwise smartphones won't be able to run it smooth. Bench models have been added
+and some posters have to be added too.
