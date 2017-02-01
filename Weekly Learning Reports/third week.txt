@@ -1,0 +1,1 @@
+This week I learnt that pixel counts have to be decreased in quality settings if we're using spotlights otherwise smartphones won't be able to run it.
